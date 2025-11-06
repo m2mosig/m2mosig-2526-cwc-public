@@ -1,0 +1,18 @@
+_ARCHIVES
+_FUTURE
+_HISTORY
+docs/*/_build
+docs/_build
+libs/*
+*~
+# Python / Jython
+
+*$py.class
+*.py[cod]
+__pycache__/
+
+# PyCharm
+.idea/*
+
+_ARCHIVES/*
+
