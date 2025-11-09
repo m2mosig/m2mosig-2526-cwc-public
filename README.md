@@ -25,3 +25,9 @@ The useful repositories (-root, -info, -G12, etc.) are private. You can only acc
 The registration process is explained during the first class. Every student **MUST** register in order to access the course resources. Registration starts by completing the issues associated with this repository.
 
 Go to the “Issues” tab (the horizontal menu at the top of the screen), then complete the various “Public Issues”, starting with the first one (#1, at the bottom).
+
+
+
+[POOL}(https://docs.google.com/forms/d/e/1FAIpQLSfqdHUyk7lUU-RWEnJCimqeIQhdxGi_Zl64RmvThkka0pxKkg/viewform?usp=dialog)
+
+
