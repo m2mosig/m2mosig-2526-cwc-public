@@ -28,6 +28,6 @@ Go to the “Issues” tab (the horizontal menu at the top of the screen), then 
 
 
 
-[POOL}(https://docs.google.com/forms/d/e/1FAIpQLSfqdHUyk7lUU-RWEnJCimqeIQhdxGi_Zl64RmvThkka0pxKkg/viewform?usp=dialog)
+[POOL](https://docs.google.com/forms/d/e/1FAIpQLSfqdHUyk7lUU-RWEnJCimqeIQhdxGi_Zl64RmvThkka0pxKkg/viewform?usp=dialog)
 
 
